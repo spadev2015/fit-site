@@ -35,7 +35,7 @@ export function fitLanding() {
               <div>
                 <Link
                   className="inline-flex items-center justify-center h-10 px-6 rounded-md bg-indigo-500 text-white font-medium transition-colors hover:bg-indigo-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 focus-visible:ring-offset-2"
-                  href="#"
+                  href="https://cal.com/elitestrengthcoaching/30min"
                 >
                  Schedule a Free Consultation
                 </Link>
