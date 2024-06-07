@@ -317,7 +317,7 @@ export function fitLanding() {
           </div>
           <div className="w-full flex justify-center">
             <Image
-              src="/mobileApp-EliteStrength.png"
+              src="/Mobile-IMG-EliteStrength-300.png"
               alt="Elite Strength Mobile App"
               width={1688}
               height={984}
