@@ -33,12 +33,12 @@ export function fitLanding() {
                 Begin Your Custom Coaching Program Today!
               </p>
               <div>
-                {/* <Link
+                <Link
                   className="inline-flex items-center justify-center h-10 px-6 rounded-md bg-indigo-500 text-white font-medium transition-colors hover:bg-indigo-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 focus-visible:ring-offset-2"
                   href="#"
                 >
-                  Get Started
-                </Link> */}
+                 Schedule a Free Consultation
+                </Link>
               </div>
             </div>
           </div>
@@ -148,8 +148,7 @@ export function fitLanding() {
                 </li>
                 <li className="text-base sm:text-sm md:text-sm">
                   <CheckIcon className="h-5 w-5 text-indigo-500 inline-block mr-2" />
-                  Comprehensive fitness and nutrition assessment to tailor your
-                  program
+                  Personalized fitness and nutrition assessment for your program
                 </li>
                 <li className="text-base sm:text-sm md:text-sm">
                   <CheckIcon className="h-5 w-5 text-indigo-500 inline-block mr-2" />
@@ -236,7 +235,7 @@ export function fitLanding() {
                 experience, I started Elite Strength Coaching to inspire and
                 guide people who want to change their lives through fitness and
                 nutrition. My mission is to help people become healthier,
-                stronger, and more vibrant.
+                strongerer, and the best version of themselves.
               </p>
               <div>
                 {/* <Link
