@@ -83,7 +83,16 @@ export function fitLanding() {
                   Progress tracking and nutritional assessments
                 </li>
               </ul>
+
+              
               <div className="mt-6">
+                
+                <p className="mt-6 flex items-baseline gap-x-1">
+                  <span className="text-4xl font-bold tracking-tight text-black">$109.00</span>
+                  <span className="text-sm font-semibold leading-6 text-gray-500">/month</span>
+                 </p>
+                 <span className="text-md block font-bold tracking-tight text-gray-500">use code 25OFF for 25% OFF </span>
+
                 <Link
                   className="inline-flex items-center justify-center h-10 px-6 rounded-md bg-indigo-500 text-white font-medium transition-colors hover:bg-indigo-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 focus-visible:ring-offset-2"
                   href="https://buy.stripe.com/28o18bc5Ngo68H6dQQ"
@@ -123,6 +132,12 @@ export function fitLanding() {
                 </li>
               </ul>
               <div className="mt-6">
+              <p className="mt-6 flex items-baseline gap-x-1">
+                  <span className="text-4xl font-bold tracking-tight text-black">$119.00</span>
+                  <span className="text-sm font-semibold leading-6 text-gray-500">/month</span>
+                 </p>
+                 <span className="text-md block font-bold tracking-tight text-gray-500">use code 25OFF for 25% OFF </span>
+
                 <Link
                   className="inline-flex items-center justify-center h-10 px-6 rounded-md bg-indigo-500 text-white font-medium transition-colors hover:bg-indigo-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 focus-visible:ring-offset-2"
                   href="https://buy.stripe.com/eVa18bd9R8VEg9y5kl"
@@ -181,6 +196,12 @@ export function fitLanding() {
                 </li>
               </ul>
               <div className="mt-6">
+              <p className="mt-6 flex items-baseline gap-x-1">
+                  <span className="text-4xl font-bold tracking-tight text-black">$249.00</span>
+                  <span className="text-sm font-semibold leading-6 text-gray-500">/month</span>
+                 </p>
+                 <span className="text-md block font-bold tracking-tight text-gray-500">use code 25OFF for 25% OFF </span>
+
                 <Link
                   className="inline-flex items-center justify-center h-10 px-6 rounded-md bg-indigo-500 text-white font-medium transition-colors hover:bg-indigo-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 focus-visible:ring-offset-2"
                   href="https://buy.stripe.com/8wM2cfb1J5Js8H6146"
